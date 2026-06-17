@@ -10,5 +10,4 @@ xyz projects:
 > [!IMPORTANT]
 > Willing to work on some minecraft server development if the project seems worthy.
 
-> [!IMPORTANT]
 `real estate tech` · `games` · `maps` · `payments` · `.xyz`
